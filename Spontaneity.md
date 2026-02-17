@@ -1,0 +1,1 @@
+These improv games help you blank your mind, and train players to acknowledge the things they subconsciously think. These games and exercises can be used for improv training, but are useful in any environment in which spontaneity is to be encouraged.

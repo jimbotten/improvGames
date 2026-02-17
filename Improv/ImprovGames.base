@@ -1,0 +1,22 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Improv")
+        - file.name != "ImprovGames.base"
+    order:
+      - file.name
+      - Name
+      - Description
+      - Category
+      - Provenance
+      - Length
+      - Players
+      - Teach
+      - Type
+    columnSize:
+      note.Name: 169
+      note.Description: 678
+  - type: cards
+    name: View
