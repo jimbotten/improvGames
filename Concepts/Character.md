@@ -1,5 +1,10 @@
 Build a character with:
+* Emotions
 * Accent
 * Age
-* Status
-* *
+* 
+* Imitation
+* Physicality
+ 
+
+* Status, sterotypes, someone gives you a character

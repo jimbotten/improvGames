@@ -4,7 +4,7 @@ Description: 4 players. 2 perform a dude scene. the next 2 repeat the scene but 
 Category:
 Provenance:
 Length:
-Players:
+Players: "4"
 Teach:
 Type:
 ---

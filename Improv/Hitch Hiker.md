@@ -5,7 +5,7 @@ Category:
   - Character
 Provenance:
 Length:
-Players:
+Players: "5"
 Teach:
 Type:
 ---

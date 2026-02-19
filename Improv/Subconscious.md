@@ -4,7 +4,7 @@ Description: 4 players, 2 seated have a boring conversation, with the other 2 ov
 Category:
 Provenance:
 Length:
-Players:
+Players: "4"
 Teach:
 Type:
 ---

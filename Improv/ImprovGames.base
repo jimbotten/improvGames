@@ -12,6 +12,7 @@ views:
       - Category
       - Type
       - Played
+      - Length
     sort:
       - property: file.name
         direction: DESC

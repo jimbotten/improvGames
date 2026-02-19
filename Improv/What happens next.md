@@ -4,7 +4,7 @@ Description: A player starts a scene from a suggestion, then pauses "what happen
 Category:
 Provenance:
 Length:
-Players:
+Players: "2"
 Teach:
 Type:
 ---

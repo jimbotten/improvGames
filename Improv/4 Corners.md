@@ -4,7 +4,7 @@ Description: 4 players with relationships from the audience.  The MC "rotate lef
 Category:
 Provenance:
 Length:
-Players:
+Players: "4"
 Teach:
 Type:
 Played: false

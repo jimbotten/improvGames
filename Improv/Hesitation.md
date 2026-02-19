@@ -4,7 +4,7 @@ Description: 2 person scene. They prompt the audience with um um and touching th
 Category:
 Provenance:
 Length:
-Players:
+Players: "2"
 Teach:
 Type:
 ---

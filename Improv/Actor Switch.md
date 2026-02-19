@@ -4,7 +4,7 @@ Description: 3 players in line all with characters. Scene starts with suggestion
 Category:
 Provenance:
 Length:
-Players:
+Players: "3"
 Teach:
 Type:
 Played: false

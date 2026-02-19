@@ -4,7 +4,7 @@ Description: 3 players. 1st says a gibberish word.  2nd repeats and defines it, 
 Category:
 Provenance:
 Length:
-Players:
+Players: "3"
 Teach:
 Type:
 ---
