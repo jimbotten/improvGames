@@ -7,16 +7,17 @@ views:
         - file.name != "ImprovGames.base"
     order:
       - file.name
-      - Name
       - Description
-      - Category
-      - Provenance
-      - Length
       - Players
-      - Teach
+      - Category
       - Type
+      - Played
+    sort:
+      - property: file.name
+        direction: DESC
+    summaries:
+      Category: Filled
     columnSize:
-      note.Name: 169
-      note.Description: 678
+      note.Description: 596
   - type: cards
     name: View
