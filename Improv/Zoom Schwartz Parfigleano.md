@@ -2,7 +2,7 @@
 Description:
 Players:
 Category:
-Type:
+Type: Warmup
 Played:
 Length:
 ---

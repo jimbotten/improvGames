@@ -6,6 +6,6 @@ Provenance:
 Length:
 Players: "4"
 Teach:
-Type:
+Type: Performance
 Played: false
 ---

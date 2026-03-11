@@ -4,7 +4,7 @@ Description:
 Category:
 Provenance:
 Length:
-Players:
+Players: Circle
 Teach:
-Type:
+Type: Exercise
 ---

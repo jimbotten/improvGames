@@ -1,7 +1,7 @@
 ---
 Description: Circle.   Point, they say go, then they point.
-Players:
+Players: Circle
 Category:
-Type:
+Type: Exercise
 Played:
 ---

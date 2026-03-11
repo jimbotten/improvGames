@@ -6,5 +6,5 @@ Provenance:
 Length:
 Players: 4-5
 Teach:
-Type:
+Type: Performance
 ---

@@ -11,11 +11,11 @@ views:
       - Players
       - Category
       - Type
-      - Played
-      - Length
     sort:
       - property: file.name
-        direction: DESC
+        direction: ASC
+      - property: Type
+        direction: ASC
     summaries:
       Category: Filled
     columnSize:

@@ -1,8 +1,8 @@
 ---
 Description:
-Players:
+Players: Circle
 Category:
-Type:
+Type: Warmup
 Played:
 Length:
 ---
