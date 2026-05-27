@@ -1,7 +1,8 @@
 ---
 Description: Circle.  Form an object, use it and pass to the next player.  They use it and repeat.
-Players:
+Players: circle
 Category:
-Type:
+  - Physical Space
+Type: Exercise
 Played:
 ---

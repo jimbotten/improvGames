@@ -15,7 +15,7 @@ views:
       - Length
     sort:
       - property: file.name
-        direction: DESC
+        direction: ASC
     summaries:
       Category: Filled
     columnSize:
