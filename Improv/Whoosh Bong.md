@@ -4,7 +4,7 @@ Description: Pass a ball around.
 Category:
 Provenance:
 Length:
-Players:
+Players: Circle
 Teach:
 Type: Warmup
 ---

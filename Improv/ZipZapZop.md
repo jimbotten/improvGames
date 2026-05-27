@@ -4,7 +4,7 @@ Description: Circle.  Repeating threesome of "zip""zap""zop" but zip players can
 Category:
 Provenance:
 Length:
-Players:
+Players: Circle
 Teach:
 Type: Warmup
 ---

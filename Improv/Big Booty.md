@@ -5,7 +5,7 @@ Category:
   - Spontaneity
 Provenance:
 Length:
-Players: circle
+Players: Circle
 Teach:
 Type: Exercise
 ---

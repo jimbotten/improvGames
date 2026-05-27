@@ -4,7 +4,7 @@ Description: Circle. First player is given a letter of the alphabet. (not X) The
 Category:
 Provenance: Romni
 Length:
-Players:
+Players: Circle
 Teach:
-Type:
+Type: Warmup
 ---
